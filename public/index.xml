@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martitegui Hugo Web</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Martitegui Hugo Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Mar 2022 22:07:20 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abuela cebolla</title>
+      <link>http://example.org/dir1/c/</link>
+      <pubDate>Fri, 04 Mar 2022 22:07:20 +0100</pubDate>
+      
+      <guid>http://example.org/dir1/c/</guid>
+      <description>
+        
+          
+            Abuela cebolla   Nueva imagen de abuela cebolla
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>NINNO CEBOLLA</title>
+      <link>http://example.org/dir1/b/</link>
+      <pubDate>Fri, 04 Mar 2022 21:55:41 +0100</pubDate>
+      
+      <guid>http://example.org/dir1/b/</guid>
+      <description>
+        
+          
+            Imagenes indeditas del ninno cebolla
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
